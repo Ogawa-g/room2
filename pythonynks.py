@@ -1,5 +1,7 @@
-from tkinter import Image
 import streamlit as st
+
+from tkinter import Image
+
 from PIL import Image
 # streamlit run python.py で最初の実行
 st.title('YNKS診断')
